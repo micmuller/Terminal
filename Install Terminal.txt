@@ -1,0 +1,12 @@
+WSL
+Install WSL (-ubuntu)
+
+install Powershell 7 via Micrsofot Store
+change Prompt in Powershell 
+oh-my-posh, download
+install VisualStudio code
+install git (winget git.git)
+install font: https://www.nerdfonts.com/font-downloads
+make own Oh My Posh config.
+Install folder Fonts...
+test
