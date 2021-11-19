@@ -1,13 +1,21 @@
+
+Video Source: https://youtu.be/VT2L1SXFq9U
+Scott Hanselmann
+
 WSL
 Install WSL (-ubuntu)
 
 install Powershell 7 via Micrsofot Store
 change Prompt in Powershell 
 oh-my-posh, download
+Register in Microsoft.PowerShell_profile.ps1
+Use own ohmyposhv3-v2-mic.json
+
 install VisualStudio code
 install git (winget git.git)
 publish som code and Configure Git
 install font: https://www.nerdfonts.com/font-downloads
 make own Oh My Posh config.
 Install folder Fonts...
+https://www.hanselman.com/blog/take-your-windows-terminal-and-powershell-to-the-next-level-with-terminal-icons
 
